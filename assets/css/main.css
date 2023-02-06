@@ -3029,13 +3029,13 @@ input, select, textarea {
 	}
 
 	header p {
-		font-family: "Raleway", Helvetica, sans-serif;
-		font-size: 0.7em;
+		font-family:  "Times New-Roman";
+		font-size: 0.8em;
 		font-weight: 400;
-		letter-spacing: 0.25em;
+		letter-spacing: 0.18em;
 		line-height: 2.5;
 		margin-top: -1em;
-		text-transform: uppercase;
+		;/*text-transform: uppercase*/
 	}
 
 /* Table */
